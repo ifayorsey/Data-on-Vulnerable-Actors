@@ -3,7 +3,27 @@
 
 This past semester, I had the privilege of taking Manuela Picq’s States of Extraction class at Amherst College. More than once, I was shocked to discover the extent of transgressions many Latin American governments carrying out on their own people, and additionally the lack of visibility and coverage surrounding these issues. When the opportunity came to carry out an intervention project, I was naturally excited to try and create a model that highlighted the plight of nature defenders. However I was quite alarmed at how little, and spread out data on the issue was. For my intervention project, I wanted to make information like this more accessible to statisticians and those alike who may not necessarily come in contact with such information, but can be useful agents in further bringing awareness to the issue.
 
-The dataset I uploaded to Github contains 31 observations and 15 variables ranging from land area and oil production, to corruption and military indexes. 
+The dataset I uploaded to Github contains 31 observations and 15 variables. Descriptions of the variables are as follows:
+
+* **country**: country
+* **region**	Region
+* sub.rgn	Sub region
+* **land.hct**	Country land area in hectares
+* **icf**	Percent of indigenous and community lands acknowledged by govt
+* **wpn.sld**	Revenue from weapons sold in USD
+* **military.pct**	Percent of budget spent on military
+* **corrupt.idx**	Corruption perception index from 2017
+* **military.idx**	Military strength index
+* **poverty.rt**	Poverty Rate
+* **performance.idx**	Environmental Performance Index
+* **defenders**	Number of human rights defenders killed in 2017
+* **exports**	Revenue from exports  (Billion USD)
+* **unemploy.rt**	Unemployment rate
+* **crude.prd**	Crude oil production in 2017 (barrels per day)
+* **refine.prd**	Refined oil producion in 2017 (barrels per day)
+
+
+ranging from land area and oil production, to corruption and military indexes. 
 Sources of data include:
 
 
