@@ -1,7 +1,7 @@
 # StatesofExtraction
 
 
-This past semester, I had the privilege of taking Manuela Picq’s States of Extraction class at Amherst College. More than once, I was shocked to discover the extent of transgressions many Latin American governments carry out on their own people, and additionally the lack of visibility and coverage surrounding these issues. When the opportunity came to carry out an intervention project, I was naturally excited to try and create a model that highlighted the plight of nature defenders. However I was quite alarmed at how little, and spread out data on the issue was. For my intervention project, I wanted to make information like this more accessible to statisticians and those alike who may not necessarily come in contact with such information, but can be useful agents in further bringing awareness to the issue.
+This past semester, I had the privilege of taking Manuela Picq’s States of Extraction class at Amherst College. More than once, I was shocked to discover the extent to which governments pursue extraction, and the lack of visibility surrounding these issues. When the opportunity arose to carry out an intervention project, I was naturally excited to try and create a model that highlighted the plight of nature defenders. However I was quite alarmed at how little, and spread out data on the issue was. For my intervention project, I wanted to make information like this more accessible to statisticians and those alike who may not necessarily come in contact with such information, but can be useful agents in further bringing awareness to the issue.
 
 The dataset I uploaded to Github contains 31 observations and 15 variables. Please feel free to download and use for your models! Descriptions of the variables are as follows:
 
